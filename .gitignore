@@ -1,0 +1,11 @@
+#ignore object files and archive files
+*[.oa]
+
+#ignore executable files
+*.exe
+
+#ignore all sql files
+*.sql
+
+#ignore .vscode folder
+.vscode/
